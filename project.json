@@ -1,0 +1,41 @@
+{
+  "id": 99,
+  "category": "app-workflow",
+  "slug": "docker-desktop-resource-notebook",
+  "target": "Docker Desktop",
+  "appid": null,
+  "summaryRu": "Журнал ресурсов контейнерных проектов без удаления томов и образов.",
+  "features": [
+    "Container workload inventory",
+    "Resource limit worksheets",
+    "Volume backup checklist"
+  ],
+  "title": "ContainerBudget — Docker Desktop — Orchestration",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "editorial-selection",
+      "sourceId": null,
+      "detail": "Editorial workflow selection; current popularity was not independently measured."
+    }
+  ],
+  "brand": "ContainerBudget",
+  "repositoryName": "containerbudget-docker-desktop-resource-notebook-orchestration",
+  "githubTopics": [
+    "docker-desktop",
+    "docker",
+    "container-resources",
+    "volume-backup",
+    "workflow-planning",
+    "application-tools",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "orchestration"
+}
